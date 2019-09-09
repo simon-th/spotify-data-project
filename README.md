@@ -2,7 +2,7 @@
 
 In this project, I extracted data from my Spotify playlists using Spotify API and used it to predict if I will like a certain song or not.
 
-The main purpose of this project was to make myself more familiar with the process of working with data and using the Pandas, Seaborn and SciKit Learn libraries in Python.
+The main purpose of this project was to make myself more familiar with the process of working with data and using the Numpy, Pandas, Seaborn, SciKit Learn and TensorFlow libraries in Python.
 
 This repository contains three Jupyter Notebooks that document my work:
 
